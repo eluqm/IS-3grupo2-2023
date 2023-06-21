@@ -1,86 +1,86 @@
 [
     {
-        "merged": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
-        "source": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/src/main/res/layout/activity_main.xml"
+        "merged": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/build/intermediates/res/merged/debug/drawable-v24_background.png.flat",
-        "source": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/src/main/res/drawable-v24/background.png"
+        "merged": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/build/intermediates/res/merged/debug/drawable-v24_background.png.flat",
+        "source": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/src/main/res/drawable-v24/background.png"
     },
     {
-        "merged": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
-        "source": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/src/main/res/drawable/ic_launcher_background.xml"
+        "merged": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/build/intermediates/res/merged/debug/drawable_ic_baseline_info_24.xml.flat",
+        "source": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/src/main/res/drawable/ic_baseline_info_24.xml"
     },
     {
-        "merged": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/build/intermediates/res/merged/debug/drawable-v24_fb.png.flat",
-        "source": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/src/main/res/drawable-v24/fb.png"
+        "merged": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/build/intermediates/res/merged/debug/drawable-v24_twitter.png.flat",
-        "source": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/src/main/res/drawable-v24/twitter.png"
+        "merged": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/build/intermediates/res/merged/debug/drawable-v24_fb.png.flat",
+        "source": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/src/main/res/drawable-v24/fb.png"
     },
     {
-        "merged": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/build/intermediates/res/merged/debug/drawable_ic_baseline_info_24.xml.flat",
-        "source": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/src/main/res/drawable/ic_baseline_info_24.xml"
+        "merged": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/build/intermediates/res/merged/debug/drawable-v24_twitter.png.flat",
+        "source": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/src/main/res/drawable-v24/twitter.png"
     },
     {
-        "merged": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/build/intermediates/res/merged/debug/drawable-v24_google.png.flat",
+        "source": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/src/main/res/drawable-v24/google.png"
     },
     {
-        "merged": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/build/intermediates/res/merged/debug/drawable_ic_baseline_person_outline_24.xml.flat",
-        "source": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/src/main/res/drawable/ic_baseline_person_outline_24.xml"
+        "merged": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/build/intermediates/res/merged/debug/drawable-v24_google.png.flat",
-        "source": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/src/main/res/drawable-v24/google.png"
+        "merged": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+        "merged": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/build/intermediates/res/merged/debug/drawable_ic_baseline_person_outline_24.xml.flat",
+        "source": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/src/main/res/drawable/ic_baseline_person_outline_24.xml"
     },
     {
-        "merged": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/src/main/res/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
     }
 ]
