@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/angel/ReposGit/Lohin2/MyLoginApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ms/values-ms.xml",
+            "outputFile": "/home/angel/ReposGit/Ingeneria3/IS-3grupo2-2023/MyLoginApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ms/values-ms.xml",
             "map": [
                 {
                     "source": "/home/angel/.gradle/caches/transforms-3/540dbfb90b248d7b59cd154497c15f99/transformed/core-1.5.0/res/values-ms/values-ms.xml",
