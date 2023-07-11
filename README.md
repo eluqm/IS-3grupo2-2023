@@ -22,7 +22,7 @@ _sexED (sexual education) es una aplicación móvil diseñada para brindar educa
 ![Mockup 3](img/chatbot.png)
 
 ## Diagrama UML
-![BD](img/BD.jpeg)
+![BD](img/BD.png)
 
 El diagrama se encuentra en [Diagrama UML](https://lucid.app/lucidchart/569169ad-7b3c-4d8d-8b99-35b9f098086a/edit?viewport_loc=-882%2C-1071%2C2560%2C1216%2C0_0&invitationId=inv_1e306450-4c15-499c-98d7-090fdc287abb).
 
@@ -33,9 +33,9 @@ Encontrarás documentación detallada sobre la especificacion de requisitos en [
 Adicionalmente aqui se encuentra el espacio de trabajo creado en Trello [Tablero](https://trello.com/b/EqBpKCVb/educaci%C3%B2n-sexual)
 
 ## Construido con 🛠️
-
-* [React Native](https://reactnative.dev/)
-* [NodeJS](https://nodejs.org/es)
+* [DialogFlow](https://cloud.google.com/)
+* [Rest Api Word Press](https://wordpress.com)
+* [Java](https://www.java.com/)
 
 ## Instalación 🛠️
 
@@ -50,7 +50,7 @@ _¡Estamos abiertos a recibir contribuciones! Si tienes alguna idea, mejora o co
 ## Equipo ✒️
 - [Yanqui Vera Henry Aron](https://github.com/hyanquiv)
 - Vilca Alvites Cecilia del Pilar
-- Bejar Merma Angel Andres
+- [Bejar Merma Angel Andres](https://github.com/ubuangel)
 - Torres Quispe Erick Jesus
 - Rimache Choquehuanca Sennayda
 - Bustamante Torres Luis Angel
