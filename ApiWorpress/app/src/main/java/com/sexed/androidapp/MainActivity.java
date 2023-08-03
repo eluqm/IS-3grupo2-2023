@@ -126,44 +126,6 @@ public class MainActivity extends AppCompatActivity implements
 
 
         });
-
-
-        //desde aca
-
-        //setContentView(R.layout.activity_main); //ojito con este si no comento muestra vista en blanco
-
-
-
-
-        //hsat aca
-
-
-
-
-    /* protected void nuevaf () {
-
-        FloatingActionButton fab=(FloatingActionButton)findViewById(R.id.fab);
-        fab.setOnClickListener(new View.OnClickListener(){
-
-            @Override
-            public void onClick(View view){
-                Intent miintent=new Intent(MainActivity.this,MainActivityBot.class);
-                startActivity(miintent);
-
-
-
-
-            }
-
-
-        });
-
-
-    }
-
-    */
-
-
     }
 
     public void setListContent(final boolean withProgress) {
@@ -236,7 +198,7 @@ public class MainActivity extends AppCompatActivity implements
         int id = item.getItemId();
 
         if (id == R.id.log_out) {
-            Toast.makeText(getApplicationContext(), "Out test", Toast.LENGTH_SHORT).show();
+            Toast.makeText(getApplicationContext(), "Sesión finalizada", Toast.LENGTH_SHORT).show();
             FirebaseAuth.getInstance().signOut();
             Intent intent = new Intent(getApplicationContext(), LoginActivity.class);
             startActivity(intent);

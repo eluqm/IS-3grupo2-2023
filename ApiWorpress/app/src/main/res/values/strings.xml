@@ -20,5 +20,6 @@
     <string name="enviar">Enviar</string>
     <string name="ingresar">Ingresar</string>
     <string name="salir">Salir</string>
+    <string name="chatbot">ChatBot</string>
 
 </resources>

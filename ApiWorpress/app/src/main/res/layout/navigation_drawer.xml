@@ -33,11 +33,12 @@
         <com.google.android.material.floatingactionbutton.FloatingActionButton
 
             android:id="@+id/fab"
-            android:layout_width="69dp"
-            android:layout_height="53dp"
+            android:layout_width="89dp"
+            android:layout_height="55dp"
 
             android:layout_marginEnd="51dp"
             android:layout_marginBottom="49dp"
+            android:contentDescription="@string/chatbot"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:srcCompat="@android:drawable/stat_notify_chat">
