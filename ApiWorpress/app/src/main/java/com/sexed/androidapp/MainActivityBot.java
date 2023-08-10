@@ -88,7 +88,17 @@ public class MainActivityBot extends AppCompatActivity{
 
     void callAPI(String question){
         //okhttp
-        messageList.add(new Message("Typing... ",Message.SENT_BY_BOT));
+        messageList.add(new Message("Respondiendo... ",Message.SENT_BY_BOT));
+        //question +=;
+
+
+
+        //String prompt = "Si la pregunta no es referente a eduacion sexual,la sexualidad o referente al sexo, responde " +
+        //        "que: \"No esta relacionado\"";
+        String prompt = "Actua como un educador sexual, si la entrada esta fuera del contexto de la educacion sexual" +
+                " responde: \"No esta relacionado\". ";
+
+        question = prompt + question + "?";
 
         JSONObject jsonBody = new JSONObject();
         try {
@@ -102,10 +112,10 @@ public class MainActivityBot extends AppCompatActivity{
         RequestBody body = RequestBody.create(jsonBody.toString(),JSON);
         Request request = new Request.Builder()
                 .url("https://api.openai.com/v1/completions")
-                .header("Authorization", "Bearer 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")
+                .header("Authorization", "Bearer copia_la_api_aqui")
                 .post(body)
                 .build();
-
+        //sk-SsPUgLGY8e6ckC9DJIT//oT3BlbkFJBLygUT0OpqzXqVWbtIkM
         client.newCall(request).enqueue(new Callback() {
             @Override
             public void onFailure(@NonNull Call call, @NonNull IOException e) {
